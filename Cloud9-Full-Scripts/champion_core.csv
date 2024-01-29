@@ -1,0 +1,167 @@
+champion_id,name,title,difficulty
+266,Aatrox,the Darkin Blade,4
+103,Ahri,the Nine-Tailed Fox,5
+84,Akali,the Rogue Assassin,7
+166,Akshan,the Rogue Sentinel,0
+12,Alistar,the Minotaur,7
+32,Amumu,the Sad Mummy,3
+34,Anivia,the Cryophoenix,10
+1,Annie,the Dark Child,6
+523,Aphelios,the Weapon of the Faithful,10
+22,Ashe,the Frost Archer,4
+136,Aurelion Sol,The Star Forger,7
+268,Azir,the Emperor of the Sands,9
+432,Bard,the Wandering Caretaker,9
+200,Bel'Veth,the Empress of the Void,10
+53,Blitzcrank,the Great Steam Golem,4
+63,Brand,the Burning Vengeance,4
+201,Braum,the Heart of the Freljord,3
+233,Briar,the Restrained Hunger,3
+51,Caitlyn,the Sheriff of Piltover,6
+164,Camille,the Steel Shadow,4
+69,Cassiopeia,the Serpent's Embrace,10
+31,Cho'Gath,the Terror of the Void,5
+42,Corki,the Daring Bombardier,6
+122,Darius,the Hand of Noxus,2
+131,Diana,Scorn of the Moon,4
+119,Draven,the Glorious Executioner,8
+36,Dr. Mundo,the Madman of Zaun,5
+245,Ekko,the Boy Who Shattered Time,8
+60,Elise,the Spider Queen,9
+28,Evelynn,Agony's Embrace,10
+81,Ezreal,the Prodigal Explorer,7
+9,Fiddlesticks,the Ancient Fear,9
+114,Fiora,the Grand Duelist,3
+105,Fizz,the Tidal Trickster,6
+3,Galio,the Colossus,5
+41,Gangplank,the Saltwater Scourge,9
+86,Garen,The Might of Demacia,5
+150,Gnar,the Missing Link,8
+79,Gragas,the Rabble Rouser,5
+104,Graves,the Outlaw,3
+887,Gwen,The Hallowed Seamstress,5
+120,Hecarim,the Shadow of War,6
+74,Heimerdinger,the Revered Inventor,8
+910,Hwei,the Visionary,9
+420,Illaoi,the Kraken Priestess,4
+39,Irelia,the Blade Dancer,5
+427,Ivern,the Green Father,7
+40,Janna,the Storm's Fury,7
+59,Jarvan IV,the Exemplar of Demacia,5
+24,Jax,Grandmaster at Arms,5
+126,Jayce,the Defender of Tomorrow,7
+202,Jhin,the Virtuoso,6
+222,Jinx,the Loose Cannon,6
+145,Kai'Sa,Daughter of the Void,6
+429,Kalista,the Spear of Vengeance,7
+43,Karma,the Enlightened One,5
+30,Karthus,the Deathsinger,7
+38,Kassadin,the Void Walker,8
+55,Katarina,the Sinister Blade,8
+10,Kayle,the Righteous,7
+141,Kayn,the Shadow Reaper,8
+85,Kennen,the Heart of the Tempest,4
+121,Kha'Zix,the Voidreaver,6
+203,Kindred,The Eternal Hunters,4
+240,Kled,the Cantankerous Cavalier,7
+96,Kog'Maw,the Mouth of the Abyss,6
+897,K'Sante,the Pride of Nazumah,9
+7,LeBlanc,the Deceiver,9
+64,Lee Sin,the Blind Monk,6
+89,Leona,the Radiant Dawn,4
+876,Lillia,the Bashful Bloom,8
+127,Lissandra,the Ice Witch,6
+236,Lucian,the Purifier,6
+117,Lulu,the Fae Sorceress,5
+99,Lux,the Lady of Luminosity,5
+54,Malphite,Shard of the Monolith,2
+90,Malzahar,the Prophet of the Void,6
+57,Maokai,the Twisted Treant,3
+11,Master Yi,the Wuju Bladesman,4
+902,Milio,The Gentle Flame,5
+21,Miss Fortune,the Bounty Hunter,1
+62,Wukong,the Monkey King,3
+82,Mordekaiser,the Iron Revenant,4
+25,Morgana,the Fallen,1
+950,Naafiri,the Hound of a Hundred Bites,2
+267,Nami,the Tidecaller,5
+75,Nasus,the Curator of the Sands,6
+111,Nautilus,the Titan of the Depths,6
+518,Neeko,the Curious Chameleon,5
+76,Nidalee,the Bestial Huntress,8
+895,Nilah,the Joy Unbound,10
+56,Nocturne,the Eternal Nightmare,4
+20,Nunu & Willump,the Boy and His Yeti,4
+2,Olaf,the Berserker,3
+61,Orianna,the Lady of Clockwork,7
+516,Ornn,The Fire below the Mountain,5
+80,Pantheon,the Unbreakable Spear,4
+78,Poppy,Keeper of the Hammer,6
+555,Pyke,the Bloodharbor Ripper,7
+246,Qiyana,Empress of the Elements,8
+133,Quinn,Demacia's Wings,5
+497,Rakan,The Charmer,5
+33,Rammus,the Armordillo,5
+421,Rek'Sai,the Void Burrower,3
+526,Rell,the Iron Maiden,0
+888,Renata Glasc,the Chem-Baroness,8
+58,Renekton,the Butcher of the Sands,3
+107,Rengar,the Pridestalker,8
+92,Riven,the Exile,8
+68,Rumble,the Mechanized Menace,10
+13,Ryze,the Rune Mage,7
+360,Samira,the Desert Rose,6
+113,Sejuani,Fury of the North,4
+235,Senna,the Redeemer,7
+147,Seraphine,the Starry-Eyed Songstress,0
+875,Sett,the Boss,2
+35,Shaco,the Demon Jester,9
+98,Shen,the Eye of Twilight,4
+102,Shyvana,the Half-Dragon,4
+27,Singed,the Mad Chemist,5
+14,Sion,The Undead Juggernaut,5
+15,Sivir,the Battle Mistress,4
+72,Skarner,the Crystal Vanguard,5
+37,Sona,Maven of the Strings,4
+16,Soraka,the Starchild,3
+50,Swain,the Noxian Grand General,8
+517,Sylas,the Unshackled,5
+134,Syndra,the Dark Sovereign,8
+223,Tahm Kench,The River King,5
+163,Taliyah,the Stoneweaver,5
+91,Talon,the Blade's Shadow,7
+44,Taric,the Shield of Valoran,3
+17,Teemo,the Swift Scout,6
+412,Thresh,the Chain Warden,7
+18,Tristana,the Yordle Gunner,4
+48,Trundle,the Troll King,5
+23,Tryndamere,the Barbarian King,5
+4,Twisted Fate,the Card Master,9
+29,Twitch,the Plague Rat,6
+77,Udyr,the Spirit Walker,7
+6,Urgot,the Dreadnought,8
+110,Varus,the Arrow of Retribution,2
+67,Vayne,the Night Hunter,8
+45,Veigar,the Tiny Master of Evil,7
+161,Vel'Koz,the Eye of the Void,8
+711,Vex,the Gloomist,0
+254,Vi,the Piltover Enforcer,4
+234,Viego,The Ruined King,5
+112,Viktor,the Machine Herald,9
+8,Vladimir,the Crimson Reaper,7
+106,Volibear,the Relentless Storm,3
+19,Warwick,the Uncaged Wrath of Zaun,3
+498,Xayah,the Rebel,5
+101,Xerath,the Magus Ascendant,8
+5,Xin Zhao,the Seneschal of Demacia,2
+157,Yasuo,the Unforgiven,10
+777,Yone,the Unforgotten,8
+83,Yorick,Shepherd of Souls,6
+350,Yuumi,the Magical Cat,2
+154,Zac,the Secret Weapon,8
+238,Zed,the Master of Shadows,7
+221,Zeri,The Spark of Zaun,6
+115,Ziggs,the Hexplosives Expert,4
+26,Zilean,the Chronokeeper,6
+142,Zoe,the Aspect of Twilight,5
+143,Zyra,Rise of the Thorns,7
